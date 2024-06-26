@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or support, please contact [your-email@example.com].
+For any questions or support, please contact [https://www.linkedin.com/in/nakshatra-goel/].
